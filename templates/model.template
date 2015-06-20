@@ -12,6 +12,8 @@
  * @docs        :: http://sailsjs.org/#!/documentation/concepts/ORM/Models.html
  */
 
+var Sequelize = require('sequelize');
+
 module.exports = {
 
   attributes: {
